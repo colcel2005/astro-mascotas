@@ -1,20 +1,22 @@
 [
   {
+    "id": 1,
     "title": "Alimento Premium Perros",
-    "price": "$35",
+    "price": 35,
     "image": "https://images.unsplash.com/photo-1589924691995-ad0029e86a1c?w=500",
-    "description": "Bolsa de 10kg alta proteína."
+    "description": "Bolsa de 10kg alta proteína.",
+    "full_description": "Nutrición completa para mascotas activas.",
+    "category": "Alimentos",
+    "stock": 10
   },
   {
+    "id": 2,
     "title": "Cama Confort Gatos",
-    "price": "$25",
+    "price": 25,
     "image": "https://images.unsplash.com/photo-1548546738-8509cb246ed3?w=500",
-    "description": "Material lavable y térmico."
-  },
-  {
-    "title": "Juguete Mordedor",
-    "price": "$12",
-    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=500",
-    "description": "Caucho natural ultra resistente."
+    "description": "Material lavable y térmico.",
+    "full_description": "Cama acolchada ideal para el descanso felino.",
+    "category": "Accesorios",
+    "stock": 5
   }
 ]
