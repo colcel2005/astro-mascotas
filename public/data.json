@@ -3,11 +3,11 @@
     {
       "id": "01",
       "thumb_src": "https://images.unsplash.com/photo-1589924691995-ad0029e86a1c?w=500",
-      "thumb_alt": "purina-pro-plan",
+      "thumb_alt": "purina",
       "title": "Purina Pro Plan Sabor",
       "price": "55.00",
       "category": "Alimentos",
-      "description": "Alimento premium con carne real y probióticos.",
+      "description": "Alimento premium con carne real.",
       "stock": 10
     },
     {
@@ -17,7 +17,7 @@
       "title": "Blue Buffalo Life",
       "price": "62.00",
       "category": "Alimentos",
-      "description": "Fórmula natural con pollo y arroz integral.",
+      "description": "Fórmula natural con pollo y arroz.",
       "stock": 15
     },
     {
