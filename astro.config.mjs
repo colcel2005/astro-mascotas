@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
-// https://https://astro-mascotas.pages.dev/
+// https://astro-mascotas.pages.dev/
 import react from "@astrojs/react";
 
 // https://astro.build/config
