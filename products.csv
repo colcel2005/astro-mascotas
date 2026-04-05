@@ -1,2 +1,5 @@
 id,nombre,precio,categoria,subcategoria,descripcion,imagen_url
-1,Cámara Pro,"500,00",Electrónica,Fotografia,Descripcion,/img/foto1.jpg
+1,Purina Pro Plan Sabor,55.00,Alimentos,Perros,Carne real y probióticos,https://images.unsplash.com/photo-1589924691995-ad0029e86a1c?w=500
+2,Blue Buffalo Life Protection,62.00,Alimentos,Perros,Pollo y arroz integral,https://images.unsplash.com/photo-1548546738-8509cb246ed3?w=500
+3,Cama Cueva Armarkat,45.00,Accesorios,Gatos,Cama cerrada lavable,https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=500
+4,Cama Donut Anti-Ansiedad,38.00,Accesorios,Mascotas,Diseño extra suave,https://images.unsplash.com/photo-1591584505816-0c9966bb7385?w=500
