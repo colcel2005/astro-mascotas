@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "01",
+      "thumb_src": "https://images.unsplash.com/photo-1589924691995-ad0029e86a1c?w=500",
+      "thumb_alt": "purina-pro-plan",
+      "title": "Purina Pro Plan Sabor",
+      "price": "55.00",
+      "category": "Alimentos",
+      "description": "Alimento premium con carne real y probióticos.",
+      "stock": 10
+    },
+    {
+      "id": "02",
+      "thumb_src": "https://images.unsplash.com/photo-1548546738-8509cb246ed3?w=500",
+      "thumb_alt": "blue-buffalo",
+      "title": "Blue Buffalo Life",
+      "price": "62.00",
+      "category": "Alimentos",
+      "description": "Fórmula natural con pollo y arroz integral.",
+      "stock": 15
+    },
+    {
+      "id": "03",
+      "thumb_src": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=500",
+      "thumb_alt": "cama-cueva",
+      "title": "Cama Cueva Armarkat",
+      "price": "45.00",
+      "category": "Accesorios",
+      "description": "Cama cerrada lavable para gatos.",
+      "stock": 8
+    },
+    {
+      "id": "04",
+      "thumb_src": "https://images.unsplash.com/photo-1591584505816-0c9966bb7385?w=500",
+      "thumb_alt": "cama-donut",
+      "title": "Cama Donut Anti-Ansiedad",
+      "price": "38.00",
+      "category": "Accesorios",
+      "description": "Diseño extra suave para reducir el estrés.",
+      "stock": 12
+    }
+  ]
+}
